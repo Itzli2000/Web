@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"views"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"fr",
+				"fruta〔variable〕"
+			],
+			[
+				"di",
+				"diccionario〔variable〕"
+			],
+			[
+				"dic",
+				"diccionario2〔variable〕"
+			],
+			[
+				"va",
+				"valores〔variable〕"
+			],
+			[
+				"val",
+				"valor1〔variable〕"
+			],
+			[
+				"my",
+				"my_list〔variable〕"
+			],
+			[
+				"my_",
+				"my_number"
+			],
+			[
+				"new",
+				"new_string〔variable〕"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"re",
+				"result〔variable〕"
+			],
+			[
+				"fin",
+				"final3〔variable〕"
+			],
+			[
+				"fi",
+				"final2〔variable〕"
+			],
+			[
+				"f",
+				"format〔function〕"
+			],
+			[
+				"for",
+				"__format__〔function〕"
+			],
+			[
+				"pr",
+				"print〔keyword〕"
+			],
+			[
+				"el",
+				"else〔keyword〕"
+			],
+			[
+				"prin",
+				"print〔keyword〕"
+			],
+			[
+				"bo",
+				"botella〔function〕"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin_facilito/admin_facilito/urls.py",
+			"settings":
+			{
+				"buffer_size": 828,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin_facilito/clients/urls.py",
+			"settings":
+			{
+				"buffer_size": 104,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin_facilito/clients/views.py",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect",
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect/admin_facilito",
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect/admin_facilito/admin_facilito",
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect/admin_facilito/clients"
+	],
+	"file_history":
+	[
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect/admin_facilito/clients/apps.py",
+		"/C/Users/Itzli/Documents/GitHub/Web/Django_Proyect/admin_facilito/admin_facilito/settings.py",
+		"/C/Users/Itzli/Desktop/Python/9 - condicional.py",
+		"/C/Users/Itzli/Desktop/Python/1 - variables.py",
+		"/C/Users/Itzli/Desktop/Python/9 - condicional",
+		"/C/Users/Itzli/Desktop/Python/8 - diccionarios.py",
+		"/C/Users/Itzli/Desktop/Python/7 - tuplas.py",
+		"/C/Users/Itzli/Desktop/Python/6 - listas.py",
+		"/C/Users/Itzli/Desktop/Python/metodos-strings.py",
+		"/C/Users/Itzli/Desktop/Python/lista-cadenas.py",
+		"/C/Users/Itzli/Desktop/Python/cadenas.py",
+		"/C/Users/Itzli/Desktop/Python/numeros.py",
+		"/C/Users/Itzli/Desktop/Python/variables.py",
+		"/C/Users/Itzli/Desktop/pd110/src/src/settings.py",
+		"/C/Users/Itzli/Desktop/pd110/src/boletin/models.py",
+		"/C/Users/Itzli/Desktop/Digimundo/index.html",
+		"/C/Users/Itzli/Desktop/Digimundo/botellas.py",
+		"/C/Users/Itzli/Documents/GitHub/platzigit/index.html",
+		"/C/Users/Itzli/Desktop/Aulaideal.Curso.Profesional.de.Bootstrap.4/Recursos/Proyecto final/nosotros.html",
+		"/C/Users/Itzli/Documents/MEGA/Dabba Deliver-cfc897307535.json",
+		"/C/Users/Itzli/Documents/GitHub/Android/Friendly Chat/initial_messages.json",
+		"/C/Users/Itzli/Downloads/My Project-b2b454ce25d5.json",
+		"/C/Users/Itzli/Desktop/Cursos/Curso Completo Desarrollo Web UDEMY/Udemy - Curso de Desarrollo Web Completo 2.0.www.INTERCAMBIOSVIRTUALES.org/01 Comenzando/007 Preguntas más frecuentes.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin_facilito/admin_facilito/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin_facilito/clients/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										99,
+										100
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										76,
+										77
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "admin_facilito/clients/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django_proyect.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
